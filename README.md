@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">Olá, Me chamo Gustavo, tenho 20 anos, sou um desenvolvedor em constante aprendizado, interessado em tecnologia e sempre buscando evoluir minhas habilidades. Gosto de explorar novas ferramentas, resolver problemas e transformar ideias em projetos práticos.<br>Aqui no meu GitHub você vai encontrar alguns dos meus estudos, experimentos e projetos pessoais. Estou sempre aberto a aprender mais e trocar conhecimento! 🚀</p>
+<p align="left">Desenvolvedor de software com foco em aplicações web práticas, construindo soluções que resolvem problemas reais do dia a dia. Experiência com JavaScript, React e integração com banco de dados via Supabase.
+
+Aqui você encontrará projetos autorais com foco em organização, usabilidade e evolução contínua, além da aplicação prática de conceitos de desenvolvimento de software.
+</p>
 
 ###
 
