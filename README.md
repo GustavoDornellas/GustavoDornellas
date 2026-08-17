@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineering | Inteligência Artificial | Python | Java | JavaScript | Estudante de Engenharia de Software</p>
+<p align="left">Estudante de Engenharia de Software | Fullstack • Backend • Frontend | Java, JavaScript, Python, SQL.</p>
 
 ###
 
